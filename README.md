@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nihal10001
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning C++ and Python Basics
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing I am a begginer
 - 📫 Ranjannihal343@gmail.com is my Email 
 - 😄 Pronouns: Male
