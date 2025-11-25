@@ -14,7 +14,7 @@ First-year B.Tech CSE student passionate about full-stack development.
 - Database design with PostgreSQL
 
 ## 📫 Let's Connect
-- Email: ranjannihal357@gmail.com
+- Email: nihalranjannayak@gmail.com
 - LinkedIn: www.linkedin.com/in/nihal-ranjan-nayak-0a765b37b
 <!---
 Nihal10001/Nihal10001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
