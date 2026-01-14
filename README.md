@@ -3,9 +3,9 @@
 First-year B.Tech CSE student passionate about full-stack development.
 
 ## 🛠️ Tech Stack
-- **Frontend:** Next.js, React, HTML, CSS
+- **Frontend:** Next.js, React, HTML, CSS, JS
 - **Backend:** Django, Python
-- **Database:** PostgreSQL
+- **Database:** PostgreSQL, SQL
 - **Tools:** Git, VS Code
 
 ## 📚 Currently Learning
