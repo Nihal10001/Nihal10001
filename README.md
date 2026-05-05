@@ -1,6 +1,6 @@
 # Hi, I'm Nihal Ranjan Nayak 👋
 
-First-year B.Tech CSE student passionate about full-stack development.
+First-year B.Tech CSE student passionate about DevOps.
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, React, HTML, CSS, JS
